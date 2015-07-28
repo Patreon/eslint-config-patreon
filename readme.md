@@ -7,6 +7,12 @@ for JS projects at Patreon.
 npm install eslint-config-patreon
 ```
 
+You'll need some additional dependencies for your linting story to be complete:
+
+```
+npm install eslint babel-eslint eslint-plugin-react
+```
+
 ## What config should I use?
 
 There are two configs we support: `strict` and `loose` that are handy
