@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-patreon",
+  "version": "1.0.0",
+  "description": "Shareable linting configurations for JS projects at Patreon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patreon/eslint-config-patreon.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Derek Reynolds <derek@patreon.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patreon/eslint-config-patreon/issues"
+  },
+  "homepage": "https://github.com/patreon/eslint-config-patreon#readme"
+}
