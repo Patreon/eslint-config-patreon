@@ -50,3 +50,20 @@ the time during development because you have `console.log` all over the place.
     "extends": "patreon/loose"
 }
 ```
+
+## Sublime Text Setup
+
+Make sure you install these sublime packages:
+
+- [Sublime Linter](http://sublimelinter.readthedocs.org/en/latest/installation.html)
+- [Sublime Linter eslint](https://github.com/roadhump/SublimeLinter-eslint#plugin-installation)
+
+By default the linter w/ pick up on the open projects `.eslintrc` config file,
+which is set to `strict`. Too noisy? No problem. Update your User Settings
+by opening the command palette and typing in `prefs`. Select
+`Preferences: SublimeLinter Settings - User`. Make sure the `args` property
+looks like this:
+
+```json
+args: ["--config", "node_modules/eslint-config-patreon/loose.json"]
+```
