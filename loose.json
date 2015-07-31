@@ -12,6 +12,7 @@
         "react"
     ],
     "rules": {
+        "semi": [0],
         "strict": [2, "never"],
         "quotes": [1, "single", "avoid-escape"],
         "camelcase": [2, {"properties": "never"}],
