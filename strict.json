@@ -45,7 +45,6 @@
         "space-infix-ops": 1,
         "space-unary-ops": 1,
         "wrap-iife": [2, "inside"],
-        "react/display-name": 1,
         "react/jsx-boolean-value": [1, "never"],
         "react/jsx-quotes": [1, "double", "avoid-escape"],
         "react/jsx-no-undef": 1,
