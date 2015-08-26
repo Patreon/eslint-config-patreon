@@ -27,6 +27,7 @@
         "no-bitwise": 2,
         "no-trailing-spaces": 1,
         "no-underscore-dangle": 0,
+        "no-use-before-define": [2, "nofunc"],
         "no-multi-spaces": [1, {"exceptions": {
             "AssignmentExpression": true,
             "BinaryExpression": true,
