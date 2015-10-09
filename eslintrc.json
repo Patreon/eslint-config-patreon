@@ -46,7 +46,6 @@
         "jsx-quotes": 1,
         "wrap-iife": [2, "inside"],
         "react/jsx-boolean-value": [1, "never"],
-        "react/display-name": 1,
         "react/jsx-no-undef": 1,
         "react/jsx-uses-react": 1,
         "react/jsx-uses-vars": 1,
