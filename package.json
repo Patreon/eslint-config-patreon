@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-patreon",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Shareable linting configurations for JS projects at Patreon.",
   "main": "index.js",
   "scripts": {
