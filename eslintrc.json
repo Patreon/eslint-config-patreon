@@ -27,6 +27,7 @@
         "indent": [1, 4, {"SwitchCase": 1}],
         "key-spacing":  [1, {"beforeColon": false, "afterColon": true, "mode": "minimum"}],
         "no-bitwise": 2,
+        "no-dupe-keys": 2,
         "no-trailing-spaces": 1,
         "no-underscore-dangle": 0,
         "no-use-before-define": [2, "nofunc"],
