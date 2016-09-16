@@ -17,7 +17,7 @@
         "semi": [1, "never"],
         "quotes": [1, "single", "avoid-escape"],
         "camelcase": [2, {"properties": "never"}],
-        "comma-dangle": [1, "never"],
+        "comma-dangle": [2, "always-multiline"],
         "comma-spacing": 1,
         "curly": [2, "multi-line"],
         "dot-notation": 0,
